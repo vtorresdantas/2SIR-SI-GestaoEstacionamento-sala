@@ -1,3 +1,4 @@
-# 2SIR-SIEstacionamento-2022
+# 2SIR-SI-GestaoEstacionamento-sala
+
 
 Projeto de levantamento de requisitos na disciplina de Engenheria de Software
